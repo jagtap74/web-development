@@ -1,1 +1,1 @@
-# web-development
+Sigma Web Development Course
